@@ -1,0 +1,5 @@
+search for Anaconda Prompt
+cd C:\Users\Kevan\anaconda3\envs
+activate chatty
+cd C:\Users\Kevan\chatty
+python3 chatbot_d
