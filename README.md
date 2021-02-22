@@ -10,3 +10,5 @@ Chatbot that can answer:
 
 
 Provides interface with discord and python terminal. 
+
+Credit to source for nltk/ml: https://github.com/techwithtim
